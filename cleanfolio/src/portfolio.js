@@ -23,13 +23,13 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Ludus',
+    name: 'Ludus Madness',
     description:
-      'Spawn some gladiators woohoo',
+      'RTS gladiator training mayhem',
     stack: ['Unity', '3DS Max', 'Photoshop', 'Substance Painter'],
     sourceCode: 'https://github.com/nicholasmerritt-acc/ludus_madness',
-    livePreview: 'https://github.com',
-    image: 'cleanfolio.png',
+    livePreview: 'https://nicholasmerritt-acc.github.io/ludus_madness/',
+    image: 'ludus.png',
   },
   {
     name: 'Project 2',
@@ -61,6 +61,7 @@ const skills = [
   'Unity',
   '3DS Max',
   'Photoshop',
+  'Substance Painter',
 ]
 
 const contact = {
