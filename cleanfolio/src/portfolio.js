@@ -1,21 +1,21 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://nicholasmerritt-acc.github.io/',
-  title: 'JS.',
+  title: 'NM',
 }
 
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Nick Merritt',
-  role: 'Game Designer'',
-  picture: 'https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png',
+  role: 'Game Designer',
+  picture: 'https://media.licdn.com/dms/image/v2/D5635AQEScGBVNkBzlQ/profile-framedphoto-shrink_800_800/B56ZcobcDuGsAg-/0/1748729971251?e=1779508800&v=beta&t=UBFTFk_X8UIKyqEaE6KAAopA9qnJ8ruFOwFnIpe4GLE',
 
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'I am an aspiring game designer, a former software developer, and a lifelong gamer. I am pursuing a degree in Game Design from Austin Community College. Here are a few of my favorite projects!',
   resume: 'https://example.com',
   social: {
-    linkedin: 'https://linkedin.com',
-    github: 'https://github.com',
+    linkedin: 'https://www.linkedin.com/in/nicholas-merritt-b26086b3/',
+    github: 'https://github.com/nicholasmerritt-acc',
   },
 }
 
@@ -26,8 +26,8 @@ const projects = [
     name: 'Ludus',
     description:
       'Spawn some gladiators woohoo',
-    stack: ['Unity', '3DS Max', 'Photoshop'],
-    sourceCode: 'https://github.com',
+    stack: ['Unity', '3DS Max', 'Photoshop', 'Substance Painter'],
+    sourceCode: 'https://github.com/nicholasmerritt-acc/ludus_madness',
     livePreview: 'https://github.com',
     image: 'cleanfolio.png',
   },
