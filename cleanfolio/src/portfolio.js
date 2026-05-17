@@ -20,25 +20,24 @@ const about = {
 }
 
 const projects = [
-  // projects can be added an removed
+  // projects can be added and removed
   // if there are no projects, Projects section won't show up
   {
     name: 'Ludus Madness',
     description:
-      'RTS gladiator training mayhem',
+      'RTS gladiator training mayhem game',
     stack: ['Unity', '3DS Max', 'Photoshop', 'Substance Painter'],
     sourceCode: 'https://github.com/nicholasmerritt-acc/ludus_madness',
-    livePreview: 'https://nicholasmerritt-acc.github.io/ludus_madness/',
+    livePreview: 'https://play.unity.com/en/games/0f82f1a8-579e-45e2-89d2-c287009c0d14/ludus-madness',
     image: 'ludus.png',
   },
   {
-    name: 'Project 2',
+    name: 'ChessBot 9000',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
-    image: 'https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png',
+      'Game Design Document for a chess-themed deckbuilding board game',
+    stack: ['Google Docs'],
+    livePreview: 'https://docs.google.com/document/d/1pcOqa2vaTHDbXUIKopm_3zgZvoGlTcoE5qEdjYUnNIc/edit?usp=sharing',
+    image: 'cards-2',
   },
   {
     name: 'Project 3',
@@ -53,15 +52,15 @@ const projects = [
 const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
-  'HTML',
-  'CSS',
-  'JavaScript',
-  'TypeScript',
-  'React',
+
   'Unity',
   '3DS Max',
   'Photoshop',
   'Substance Painter',
+  'HTML',
+  'CSS',
+  'JavaScript',
+  'React',
 ]
 
 const contact = {
