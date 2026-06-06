@@ -1,3 +1,6 @@
-simple portfolio for student work
+# Cleanfolio-minimal
+I tried the React one. it was annoying. switching to old-school html 
 
-theme originally here: https://github.com/rjshkhr/cleanfolio
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
